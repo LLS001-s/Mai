@@ -127,7 +127,10 @@ window.SITE_CONFIG = {
     photos: [
       { src: "assets/images/g1.jpg", caption: "" },
       { src: "assets/images/g2.jpg", caption: "" },
-      { src: "assets/images/g3.jpg", caption: "" }
+      { src: "assets/images/g3.jpg", caption: "" },
+      { src: "assets/images/g4.jpg", caption: "" },
+      { src: "assets/images/g5.jpg", caption: "" },
+      { src: "assets/images/g6.jpg", caption: "" },
     ]
   },
 
