@@ -574,7 +574,7 @@
       if (ending) ending.classList.add("is-blown");
       if (secret) secret.hidden = false;
       confettiBurst();
-      btn.textContent = "再吹一次";
+      btn.textContent = "Thổi lần nữa";
       btn.dataset.done = "1";
     });
   }
